@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📡 SignalSentinel
+# 📡 Signal Sentinel
 
 ### Mobile Network & Call Log Analysis Tool
 
