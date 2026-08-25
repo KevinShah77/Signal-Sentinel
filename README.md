@@ -1,4 +1,4 @@
-# ⚡ SignalSentinel — Cyber Operations & Telecom Intelligence Suite
+# ⚡ Signal Sentinel — Cyber Operations & Telecom Intelligence Suite
 
 <div align="center">
 
